@@ -1365,6 +1365,7 @@ ul {
     font-size: 28px;
     margin-bottom: 15px;
     letter-spacing: 1.5px;
+    font-weight: normal;
 }
 
 .pricing .plan .price {
@@ -1372,7 +1373,6 @@ ul {
 }
 
 .pricing .plan span {
-    font-weight: bold;
     font-size: 25px;
     letter-spacing: 2px;
     margin-bottom: 50px;
