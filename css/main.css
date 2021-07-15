@@ -704,8 +704,7 @@ ul {
     background-color: #19c8fa;
     height: 50px;
     margin: 30px auto ;
-    width: fit-content;
-    padding: 10px 70px;
+    width: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
